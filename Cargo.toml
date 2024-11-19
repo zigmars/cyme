@@ -39,6 +39,7 @@ unicode-width = "0.2.0"
 
 [patch.crates-io]
 nusb = { git = "https://github.com/kevinmehall/nusb", branch = "main" }
+udevrs = { git = "https://github.com/tuna-f1sh/udev", branch = "main" }
 
 [dev-dependencies]
 diff = "0.1"
