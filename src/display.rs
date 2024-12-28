@@ -942,7 +942,7 @@ impl Block<DeviceBlocks, Device> for DeviceBlocks {
             DeviceBlocks::VendorId => "VID",
             DeviceBlocks::ProductId => "PID",
             DeviceBlocks::Name => "Name",
-            DeviceBlocks::Manufacturer => "Manfacturer",
+            DeviceBlocks::Manufacturer => "Manufacturer",
             DeviceBlocks::ProductName => "PName",
             DeviceBlocks::VendorName => "VName",
             DeviceBlocks::Serial => "Serial",
